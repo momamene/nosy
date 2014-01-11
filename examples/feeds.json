@@ -1,0 +1,25 @@
+{
+    "feeds": [
+        {
+            "publisher": "BIGMAMA",
+            "category": "잡학",
+            "url": "http://rssblabla.herokuapp.com"
+        }, {
+            "publisher": "BIGMAMA",
+            "category": "잡학",
+            "url": "http://rssblabla.herokuapp.com"
+        }, {
+            "publisher": "MBC",
+            "category": "정치",
+            "url": "http://imnews.imbc.com/rss/news/news_01.xml"
+        }, {
+            "publisher": "MBC",
+            "category": "문화/연예",
+            "url": "http://imnews.imbc.com/rss/news/news_06.xml"
+        }, {
+            "publisher": "조선닷컴",
+            "category": "정치",
+            "url": "http://www.chosun.com/site/data/rss/politics.xml"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "nosy",
+  "version": "0.0.0",
+  "description": "Reads a RSS Feed Bundle notifying on new items.",
+  "main": "nosy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/momamene/nosy.git"
+  },
+  "author": "Hyuntak Joo <momamene@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/momamene/nosy/issues"
+  },
+  "dependencies": {
+    "feedsub": "~0.2.8"
+  }
+}
