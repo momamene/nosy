@@ -16,6 +16,7 @@
     "url": "https://github.com/momamene/nosy/issues"
   },
   "dependencies": {
-    "feedsub": "~0.2.8"
+    "feedsub": "~0.2.8",
+    "underscore": "~1.5.2"
   }
 }
