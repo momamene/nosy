@@ -1,6 +1,6 @@
 var EventEmitter = require('events').EventEmitter,
     util = require('util'),
-    hook.ioFeedSub = require('feedsub'),
+    FeedSub = require('feedsub'),
     _ = require('underscore');
 
 var Nosy = module.exports = function(feeds, options) {
